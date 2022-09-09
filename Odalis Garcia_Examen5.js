@@ -63,7 +63,7 @@ class Equipo {
     }
 }
 
-jone = new Jugador("Kevin", "Cristhoper", 24, "Arquero");
+jone = new Jugador("Kevin", "Christopher", 24, "Arquero");
 jtwo = new Jugador("Alfredo", "Garcia", 22, "Defensa");
 jthree = new Jugador("Jonathan", "Quiroz", 25, "Medio");
 jfour= new Jugador("Lenin", "Flor", 21, "Delantero");
